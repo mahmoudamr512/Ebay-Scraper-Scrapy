@@ -1,0 +1,5 @@
+chunk_size: 100
+max_sleep_time: 2
+max_retry_times: 3
+use_proxies: true
+initial_sleep: 1
